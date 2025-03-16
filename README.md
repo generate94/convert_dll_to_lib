@@ -18,3 +18,9 @@ This tool converts DLL files to LIB files by first generating a `.def` file and 
 
 - Ensure that the Visual Studio tools (`dumpbin`, `lib.exe`) are in your system's PATH.
 - If you encounter issues with Visual Studio not being recognized, follow the installation guide for setting up Visual Studio Build Tools [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+
+## Support This Project
+
+If you found this tool useful, consider buying me a coffee! Your support helps me keep making cool utilities like this.  
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=RC5Y5MH5FWU3Q)
